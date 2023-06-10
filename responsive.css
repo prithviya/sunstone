@@ -1,0 +1,347 @@
+@media only screen and (max-width: 768px) {
+    .carousel-inner {
+        height: 100% !important;
+    }
+    .eligibility-sec-list img {
+        width: 28px;
+      }
+    p{
+        font-size: 12px;
+    }
+    .timeline-steps .timeline-content .inner-circle{
+        display: none !important;
+    }
+    .right-section-placement ul{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-column-gap: 10px;
+        -moz-column-gap: 10px;
+        column-gap: 10px;
+        justify-content: space-between;
+    }
+
+    .right-section-placement ul li h3 {
+        /* font-weight: 800; */
+        font-size: 10px;   
+        text-align: center;
+    
+    }
+    .right-section-placement ul li {        
+       padding: 20px 0 !important; 
+       justify-content: space-around;
+    }
+    .philosophy-list {
+        display: flex;
+        margin-top: 20px;
+        background: aliceblue;
+        padding: 4px 18px;
+        border-radius: 20px;
+    }
+    .right-section-placement ul li h3 span {
+        /* font-weight: 800; */
+        font-size: 16px;   
+        display: block;    
+    }
+    .banner-section-left-con h5 {
+        font-size: 20px !important;
+        font-weight: 800;
+        font-family: 'Public Sans', sans-serif;
+    }
+    .carousel-caption img {
+        
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .right-section-placement ul li{
+        padding: 7px;
+        padding-left: 15px;
+    }
+    .key-offerings-section div ul li {
+        width: 100%;
+    }
+    .timeline-steps .timeline-step{
+        margin-top: 7rem !important;
+        margin-bottom: 1rem !important;
+    }
+    .heading-cust proces-cus p{
+        font-size: 12px;
+    }
+    .banner-section {
+        background-image: url(assets/images/banner-bg.jpg);
+        height: 350px;
+        width: 100%;
+        background-size: cover;
+        position: relative;
+        margin-bottom: 80px;
+    }
+
+    .list-of-cards-with-list .curriculum-section-grid-item h3 {
+        font-weight: 700;
+        font-size: 14px !important;
+        
+    }
+    .footer-banner-mob {
+        margin: 20px;
+        border-radius: 8px;
+    }
+    .footer-banner-mob img {
+        /* margin: 8px; */
+        border-radius: 8px;
+    }
+    .proces-cus p{
+        text-align: left;
+
+    }
+    
+    .plac-content-1 ol li {
+        margin-bottom: 5px;
+    }
+    .plac-content-1 h6 {
+        font-size: 18px;
+        color: #223669;
+    }
+    .list-of-cards-with-list .curriculum-section-grid-item{
+        padding: 11px 20px !important;
+    }
+
+    .carousel-item img {
+        height: 500px;
+        object-fit: cover;
+
+    }
+    .heading-cust2 h2{
+        font-size: 26px !important;
+        text-align: left;
+        line-height: 20px;
+    }
+    ul.eligibility-sec-list li {
+        font-size: 11px;
+    }
+    ul.eligibility-sec-list {
+        padding-left: 10px;
+    }
+    .small-section-label{
+        text-align: left;
+    }
+    #down-triangle{
+        border-top: 40px solid #103252;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    position: absolute;
+    left: 21px;
+    top: -104px;
+    }
+    #circle2 {
+        background-color: #ca8f38;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        display: block;
+        margin: auto;
+        margin-top: 20%;
+    }
+    #circle1 {
+        background-color: #103252;
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        position: absolute;
+        top: -170px;
+    }
+    .upr-circle {
+        position: relative;
+        margin-left: -82px;
+    }
+
+
+    .navbar-brand {
+        width: 70%;
+    }
+    .navbar-brand img{
+        width: 40% !important; 
+    }
+    .key-offerings-section {
+        margin: 40px 0;
+    }
+
+    .navbar-collapse {
+        margin-top: 20px;
+    }
+    .sectionDescription{
+        text-align: left;
+        font-size: 12px;
+    }
+    .philosophy-list h4{
+        font-size: 20px;
+    }
+    .heading-cust h2{
+        font-size: 26px !important;
+        text-align: left !important;
+        line-height: 38px !important;
+    }
+    .heading-cust h2 em{
+        text-align: left !important;
+    }
+
+    .carousel-control-prev-icon {
+        top: 20% !important;
+        position: absolute;
+    }
+
+    .carousel-control-next-icon {
+        top: 20% !important;
+        position: absolute;
+    }
+    .cus-text-1 {
+        padding: 0 10px !important;
+        font-size: 12px;
+        line-height: 24px;
+        color: #000000;
+        margin-bottom: 40px;
+    }
+    .list-of-cards-with-list .curriculum-section-grid-item p{
+        font-size: 11px;
+    line-height: 22px;
+    }
+
+    .banner-content-cus h5 {
+        font-size: 25px !important;
+        font-weight: 800;
+    }
+
+    .banner-content-cus p {
+        font-size: 12px !important;
+        /* font-weight: 800;     */
+    }
+
+    .btn-custo {
+        background: #ca8f38 !important;
+        border: #ca8f38 !important;
+        margin-top: 0;
+        font-size: 12px;
+    }
+
+    .footer-con h4 {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+    .footer-con h2{
+        font-size: 18px;
+    }
+    .footer-con{
+        padding: 20px 0 10px 0;
+    }
+    .carousel-caption {
+        position: absolute;
+        right: 8% !important;
+        bottom: 1.25rem;
+        left: 8% !important;
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+        color: #fff;
+        text-align: center;
+    }
+    .timeline-content p{
+        font-size: 12px;
+    }
+    .carousel-caption img {
+        border-radius: 8px;
+        overflow: hidden;
+        height: 180px;
+        cursor: pointer;
+        width: 280px !important;
+        object-fit: cover;
+    }
+    
+
+    .courses-tab-sun li button {
+        color: #c88c32;
+        align-items: center;
+        font-size: 14px;
+        padding: 10px 9px;
+        border: 1px solid;
+
+    }
+
+    .courses-tab-sun {
+        display: flex;
+        justify-content: center;
+    }
+
+    .con-course-eligibility {
+        padding: 20px 30px;
+        border-radius: 50px;
+        border: 1px solid #223669;
+        margin-top: 40px;
+        height: auto !important;
+    }
+    .upr-circle{
+        /* display: none !important; */
+        bottom: -63px;
+    }
+    .timeline-steps {
+        margin-top: 0;
+    }
+}
+
+@media (min-width: 992px) {
+    .top-bar {
+        padding: 20px 60px;
+        background-color: #ca8f38;
+    }
+}
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  {
+    .timeline-steps .timeline-step {
+          
+        margin: 7rem !important;
+    }
+    .timeline-steps .timeline-step:not(:last-child):after {
+       display: none !important;
+    }
+
+    .timeline-steps .timeline-step:not(:first-child):before {       
+        display: none;        
+    }
+    .banner-section-left-con h5 {
+        font-size: 26px !important;
+        font-weight: 800;
+        font-family: 'Public Sans', sans-serif;
+    }
+}
+@media (max-width: 912px) {
+    .timeline-steps .timeline-step {
+           
+        /* margin: 7rem !important; */
+    }
+}
+@media (max-width: 821px) {
+    .timeline-steps .timeline-step {
+         
+        /* margin: 7rem !important; */
+    }
+}
+@media (max-width:768px) {
+    .timeline-steps .timeline-step:not(:last-child):after {
+        content: "";
+        display: none;
+        border-top: .25rem dotted #223669;
+        /* width: 3.46rem; */
+        width: 7rem;
+        position: absolute;
+        left: 7.5rem;
+        top: .3125rem
+    }
+
+    .timeline-steps .timeline-step:not(:first-child):before {
+       
+        display: none;
+        border-top: .25rem dotted #223669;
+        width: 3.8125rem;
+        position: absolute;
+        right: 7.5rem;
+        top: .3125rem
+    }
+}
